@@ -18,4 +18,4 @@ jobs:
           context: .
           push: true
           # 把下面的 [你的用户名] 换成你 Docker Hub 的名字
-          tags: KADIMALI/xxledu:latest
+          tags: kadiamli/xxledu:latest
